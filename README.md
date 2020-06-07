@@ -1,3 +1,3 @@
 # PokeDex
 
-test
+replication of @ibrahima92's Typescript PokeDex tutorial
